@@ -15,10 +15,10 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
+  worthy,
+  toptal,
+  clients,
+  rulings,
   carrent,
   jobit,
   tripguide,
@@ -54,7 +54,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "SEO-Expert",
     icon: creator,
   },
 ];
@@ -117,8 +117,8 @@ const technologies = [
 const experiences = [
   {
     title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    company_name: "Toptal Solutions",
+    icon: toptal,
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
     points: [
@@ -130,8 +130,8 @@ const experiences = [
   },
   {
     title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
+    company_name: "Clients Sky Digital",
+    icon: clients,
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
     points: [
@@ -143,8 +143,8 @@ const experiences = [
   },
   {
     title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
+    company_name: "Rulings.law",
+    icon: rulings,
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
     points: [
@@ -156,8 +156,8 @@ const experiences = [
   },
   {
     title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
+    company_name: "Worthy Cause",
+    icon: worthy,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
     points: [
@@ -172,7 +172,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but Yonathan proved me wrong.",
     name: "Sara Lee",
     designation: "CFO",
     company: "Acme Co",
@@ -180,15 +180,15 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
+      " There is always something crushing in one of the 33 bots running in my web Scraping website until Yonathan completely reimagined the entire backend infrastructure and converted the codebase to Typescript in unbelievably short amount of time.",
+    name: "Wiliam Appleby",
+    designation: "CEO",
+    company: "Rulings.law",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Yonathan optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "Lisa Wang",
     designation: "CTO",
     company: "456 Enterprises",
